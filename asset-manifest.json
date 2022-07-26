@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/static/css/main.2298791d.css",
-    "main.js": "/static/js/main.89cb599a.js",
-    "index.html": "/index.html",
-    "main.2298791d.css.map": "/static/css/main.2298791d.css.map",
-    "main.89cb599a.js.map": "/static/js/main.89cb599a.js.map"
+    "main.css": "/guns-public/static/css/main.2298791d.css",
+    "main.js": "/guns-public/static/js/main.89cb599a.js",
+    "index.html": "/guns-public/index.html",
+    "main.2298791d.css.map": "/guns-public/static/css/main.2298791d.css.map",
+    "main.89cb599a.js.map": "/guns-public/static/js/main.89cb599a.js.map"
   },
   "entrypoints": [
-    "/static/css/main.2298791d.css",
-    "/static/js/main.89cb599a.js"
+    "static/css/main.2298791d.css",
+    "static/js/main.89cb599a.js"
   ]
 }
